@@ -15,7 +15,7 @@ public class StudentManagementSystem extends JFrame {
     private static final String DB_PASS = "Msand@20";  
 
     public StudentManagementSystem() {  
-        setTitle("🎓 Student Management System (MySQL)");  
+        setTitle(" Student Management System (MySQL)");  
         setSize(900, 600);  
         setDefaultCloseOperation(EXIT_ON_CLOSE);  
         setLocationRelativeTo(null);  
